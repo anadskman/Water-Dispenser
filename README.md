@@ -132,18 +132,11 @@ The aim of this project is to create a compact, professional-looking drink dispe
 
 ### PCB
 
-Add screenshots of:
-- Schematic
-- PCB layout
-- 3D PCB render
+<img width="527" height="526" alt="Screenshot 2026-05-22 135122" src="https://github.com/user-attachments/assets/64c1f4f8-7c44-429c-a267-11b5a599167e" />
+
 
 ### CAD
 
-Add screenshots of:
-- Full assembly
-- Pump mounts
-- Bottle mounting system
-- Enclosure
+<img width="958" height="692" alt="Screenshot 2026-05-22 205002" src="https://github.com/user-attachments/assets/403b5f7e-53fd-4681-a4f8-519dc9a29d4a" />
 
-### Build Progress
 
