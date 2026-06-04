@@ -110,17 +110,38 @@ The enclosure was designed around the PCB and bottle mounting system.
 - [x] Bottle mounting system
 - [x] Rear access panel
 
-### Future Work
+---
 
-- [ ] Manufacture PCB
-- [ ] Assemble electronics
-- [ ] 3D print enclosure components
-- [ ] Install tubing and pumps
-- [ ] Develop firmware
-- [ ] Create WiFi web interface
-- [ ] Calibrate dispensing ratios
-- [ ] Test cooling performance
-- [ ] Improve bottle mount stability
+## Bill of Materials (BOM)
+
+| Item | Description | Qty | Price (€) | Total (€) |
+|------|-------------|-----|-----------|-----------|
+| DC Power Jack | Socket DC Connectors | 1 | 1.46 | 1.46 |
+| DC 12V Dosing Pump | Peristaltic Pump | 2 | 6.38 | 6.38 |
+| ESP32 Development Board | CH340C | 1 | 5.32 | 5.32 |
+| LM2596 Chip | DC Converter | 1 | 0.82 | 0.82 |
+| AMS1117-3.3 | 3.3V Regulator | 1 | 1.48 | 1.48 |
+| 16V 100µF Electrolytic Capacitor | Capacitor | 1 | 1.94 | 1.94 |
+| 100nF Ceramic Capacitor | Decoupling Capacitor | 1 | 2.72 | 2.72 |
+| Food-Grade Silicone Tubing | 4mm ID × 5mm OD | 1 | 0.99 | 0.99 |
+| 2-Pin Screw Terminals | 2P Terminal Block | 2 | 2.24 | 4.48 |
+| IRLZ44N | Logic-Level N-Channel MOSFET | 1 | 3.04 | 3.04 |
+| Flyback Diodes | 1N4007 | 1 | 1.72 | 1.72 |
+| 100Ω Gate Resistors | Gate Resistors | 2 | Owned | Owned |
+| 10kΩ Pull-Down Resistors | Pull-Down Resistors | 2 | Owned | Owned |
+| Momentary Pushbutton | 6mm Tactile Switch | 1 | Owned | Owned |
+| Potentiometer Bourns 3386P Vertical | 10kΩ | 1 | 2.16 | 2.16 |
+| LED | Red | 1 | Owned | Owned |
+| 220Ω Resistor | LED Current Limiting Resistor | 1 | Owned | Owned |
+| PCB | Water Dispenser PCB (5 pcs) | 5 | 11.79 | 11.79 |
+
+### Cost Summary
+
+| Item | Cost (€) |
+|--------|---------|
+| Parts Total | 44.30 |
+| Shipping | 6.44 |
+| **Grand Total** | **50.74** |
 
 ---
 
